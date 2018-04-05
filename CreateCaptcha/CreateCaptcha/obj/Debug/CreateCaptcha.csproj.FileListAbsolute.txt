@@ -1,0 +1,10 @@
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\bin\Debug\CreateCaptcha.exe.config
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\bin\Debug\CreateCaptcha.exe
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\bin\Debug\CreateCaptcha.pdb
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.csprojResolveAssemblyReference.cache
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.Form1.resources
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.Properties.Resources.resources
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.csproj.GenerateResource.cache
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.exe
+C:\Users\ARGE4-1\source\repos\CreateCaptcha\CreateCaptcha\obj\Debug\CreateCaptcha.pdb
